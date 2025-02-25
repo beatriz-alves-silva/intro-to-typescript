@@ -143,7 +143,7 @@ const plantaMilho: Planta = {
 plantaMilho.regar();
 ```
 
-### Narrowing em TypeScript
+### Narrowing em TypeScript:
 É o processo de refinar ou reduzir o tipo de uma variável a partir de checagem de tipo.
 Exemplo: 
 ```javascript
@@ -173,7 +173,7 @@ console.log(numero.toFixed(2)); // 10.00
 console.log(texto.toUpperCase())
 ```
 
-### Classes
+### Classes:
 Funcionam semelhante às classes em Java. Porém, com a vantagem de tipagem estática.
 Exemplo:
 ```javascript
@@ -217,7 +217,7 @@ morango.produzirFruta();
 morango.colher(); 
 ```
 
-### Decorators
+### Decorators:
 São funções especiais que permitem adicionar comportamentos a classes, métodos, propriedades ou parâmetros de forma declarativa.
 Exemplo:
 ```javascript
