@@ -5,8 +5,7 @@ Este repositório armazena minha primeira interação com **TypeScript**, atrav�
 ## Conteúdo
 
 - **Testes e Exemplos**: Pequenos testes de funcionalidades e conceitos.
-- **Anotações**: Registro de tópicos relevantes que aprendi. O caminho para as anotações pode ser encontrado em:  
-  `/docs/notes.md`
+- **Anotações**: Registro de tópicos relevantes que aprendi. O caminho para as anotações pode ser encontrado em: [docs/notes.md](docs/notes.md)
 
 ## Objetivo
 
